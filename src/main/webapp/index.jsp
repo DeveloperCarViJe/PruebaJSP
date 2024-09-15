@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>USUARIOS</title>
+<title>USUARIOS NUEVOS</title>
 <script>
     function deleteRecord(id) {
         if (confirm('Estas seguro de Eliminar el registro...')) {
